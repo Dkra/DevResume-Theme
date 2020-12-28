@@ -6,6 +6,10 @@ Summary
 - A full year remote working experience under US team
 - Embracing Uncertainty
 
+Roger Jiang is a software engineer with 6+ years of experience, specializing in front end development and has fundenmental capability of building backend APIs, CI/CD pipeline via cloud services.
+
+As a team player. He is a efficient communicater with empathy.
+
 1. Preference Center Portal
    _ Implement a Healthcare system which allow patient able to setup its own notification preferences on its providers customized theme
    _ Main Tools: React, Redex, Express, Jest, Aws
