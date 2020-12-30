@@ -40,3 +40,27 @@ Intresting
 - Sport - Basketball, Badminton, Table Tennis, Billiard
 - Texas Holden
 - Reading
+
+---
+
+Having 6+ years of software engineering experience, I specialized in frontend development.
+In addition to frontend, I also biuld RESTful APIs and CI/CD pipelines on Cloud services.
+
+A healthcare system which patient able to choose its own notification preferences, worked cross-region under US team.
+
+- responsible for UI development
+- promte new testing tool and pattern to the team,
+
+---
+
+Kurve is A MIT bikini brand, I provide solutions as a technical consultant.
+
+- Design a much efficient solution to update site style and version-controllable. Dramastic reduce 90% of the time to update style for website by simplify multiple actions into a simple CMD+S less than a second.
+- Purchase ads via Google Ads
+- Setup and tracking site status via Google Analystic
+
+---
+
+Implemented UI interface by React with 70% of test coverage.
+Developed RESTful APIs that served frontend portals with NodeJS.
+Built CI/CD pipelines that integrate with Jenkins, GitLab, ansible and AWS cloudformation.
